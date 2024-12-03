@@ -52,7 +52,7 @@ train_df.dropna(inplace = True)
 
 # Preprocess datasets
 train_df = preprocess_data(train_df)
-test_df = preprocess_data(test_df)
+val_df = preprocess_data(val_df)
 
 # Tokenizer
 if not os.path.exists(tokenizer_path):
@@ -66,16 +66,16 @@ print("count of tok.document_count",tokenizer.document_count)
 # Tokenize
 train_df['article'] = tokenizer.texts_to_sequences(train_df['article'])
 train_df['highlights'] = tokenizer.texts_to_sequences(train_df['highlights'])
-test_df['article'] = tokenizer.texts_to_sequences(test_df['article'])
-test_df['highlights'] = tokenizer.texts_to_sequences(test_df['highlights'])
+val_df['article'] = tokenizer.texts_to_sequences(val_df['article'])
+val_df['highlights'] = tokenizer.texts_to_sequences(val_df['highlights'])
 
 # Pad sequences
 max_article_len = 400
 max_summary_len = 50
 x_train = pad_sequences(train_df['article'], maxlen=max_article_len, padding='post')
 y_train = pad_sequences(train_df['highlights'], maxlen=max_summary_len, padding='post')
-x_test = pad_sequences(test_df['article'], maxlen=max_article_len, padding='post')
-y_test = pad_sequences(test_df['highlights'], maxlen=max_summary_len, padding='post')
+x_val = pad_sequences(val_df['article'], maxlen=max_article_len, padding='post')
+y_val = pad_sequences(val_df['highlights'], maxlen=max_summary_len, padding='post')
 print("Converted training articles and summaries to sequences")
 
 # Build model
@@ -88,13 +88,13 @@ model.summary()
 
 # Train model
 if not os.path.exists(checkpoint_path):
-    train_model(model, x_train, y_train, x_test, y_test, checkpoint_path, batch_size, epochs)
+    train_model(model, x_train, y_train, x_val, y_val, checkpoint_path, batch_size, epochs)
     print("Training completed")
 else:
     model.load_weights(checkpoint_path)
 
 # Evaluate model
-predictions, references, bleu_score = evaluate_model(model, x_test, y_test, tokenizer,11490)
+predictions, references, bleu_score = evaluate_model(model, x_val, y_val, tokenizer,11490)
 print("Sample Predictions:")
 for pred, ref in zip(predictions[:5], references[:5]):
     print(f"Prediction: {pred}")
