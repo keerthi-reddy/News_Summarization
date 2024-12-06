@@ -1,6 +1,21 @@
-transformers
-datasets
-torch
-sentencepiece
-scikit-learn
-nltk
+# Core libraries
+transformers==4.33.3
+datasets==2.14.4
+torch==2.1.0
+numpy==1.25.2
+scipy==1.11.3
+
+# Metrics and text processing
+nltk==3.8.1
+textstat==0.7.3
+
+# GPU acceleration (if applicable)
+torchvision==0.16.0
+torchaudio==2.1.0
+
+# General utilities
+tqdm==4.66.1
+
+# For robustness evaluation (synonym replacement, typos, etc.)
+symspellpy==6.7.7
+word2number==1.1
