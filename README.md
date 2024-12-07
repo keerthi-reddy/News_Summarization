@@ -33,9 +33,9 @@ This project simplifies news articles to make them more accessible and readable 
 
 ### Dependencies
 Install dependencies:
-```bash
+'''bash
 pip install -r requirements.txt
-
+'''
 
 ## Future Scope
 - Integrate summarization and simplification into a unified pipeline.
