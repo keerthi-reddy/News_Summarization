@@ -46,6 +46,35 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+### Steps to run the code for summarization:
+1. Preprocess the dataset using:
+   ```bash
+   python preprocess_wikiauto.py
+   ```
+2. Train the WikiAuto model using:
+   ```bash
+   python train_wikiauto.py
+3. Test the model using:
+   ```bash
+   python test_model_wikiauto.py
+   ```
+4. Evaluate the trained WikiAuto model:
+   ```bash
+   python evaluate.py
+   ```
+5. Create Perturbation by running:
+   ```bash
+   python perturbation_utils.py
+   ```
+6. For Robustness study, run:
+   ```bash
+   python robustness_evaluation.py
+   ```
+7. For error analysis:
+   ```bash
+   python error_analysis.py
+   ```
+   
 ## Future Scope
 - Integrate summarization and simplification into a unified pipeline.
 - Extend multilingual support for broader usability.
