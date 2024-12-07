@@ -44,5 +44,5 @@ pip install -r requirements.txt
 
 ## Usage
 1. Clone the repository:
-   ```bash
+   bash
    git clone <repository-url>
