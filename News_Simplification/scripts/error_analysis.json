@@ -1,0 +1,252 @@
+[
+    {
+        "input": "simplify for beginners: Irving is a town in Jackson County, Wisconsin, United States. The population was 602 at the 2000 census. The unincorporated community of Irving is located in the town. According to the United States Census Bureau, the town has a total area of 44.4 square miles (115.0 km2), of which, 43.9 square miles (113.7 km2) of it is land and 0.5 square miles (1.3 km2) of it (1.17%) is water. As of the census of 2000, there were 602 people, 216 households, and 163 families residing in the town.",
+        "reference": "is",
+        "generated": "Irving is a town of Wisconsin in the United States."
+    },
+    {
+        "input": "simplify for beginners: Avigdor Lieberman (Hebrew:  , ], ; born Evet Lvovich Liberman,, ], 5 July 1958) is a Soviet-born Israeli politician who served as the Defense Minister of Israel from 2016 to 2018; on 14 November 2018, he resigned because of a ceasefire in Gaza which he characterized as \"surrendering to terror.\" He served as Israel's Minister of Foreign Affairs from 2009 to 2012, and again from 2013 to 2015. He has also served as member",
+        "reference": "vig",
+        "generated": "Avigdor Lieberman (born Evet Lvovich Liberman, ], 5 July 1958) is a Soviet-born Israeli politician. He served as the Defense Minister of Israel from 2016 to 2018; on 14 November 2018, he resigned because of an Israeli ceasefire in Gaza."
+    },
+    {
+        "input": "simplify for beginners: Krishan Kant (28 February 1927 \u2013 27 July 2002) was the tenth Vice President of India from 1997 until his death. Previously, he was Governor of Andhra Pradesh from 1990 to 1997. Kant was born on 28 February 1927 in a village in the Punjab Province of British India. His parents were independence activists Lala Achint Ram and Satyavati Devi. Kant completed his MSc (Technology) from erstwhile Banaras Engineering College, Banaras Hindu University (currently known as Indian Institute of Technology,",
+        "reference": "han",
+        "generated": "Krishan Kant (28 February 1927 \u2013 27 July 2002) was the tenth Vice President of India from 1997 until his death. Previously, he was Governor of Andhra Pradesh from 1990 to 1997."
+    },
+    {
+        "input": "simplify for beginners: Kamikaze is the tenth studio album by American rapper Eminem, released on August 31, 2018 by Aftermath Entertainment, Interscope Records, and Shady Records without prior announcement. The album features guest appearances from Joyner Lucas, Royce da 5'9\", Jessie Reyez, and uncredited vocals by Justin Vernon. Eminem, credited as Slim Shady, and Dr. Dre served as executive producers, while production for individual tracks comes from a variety of musicians. Following the polarizing reception of his previous album, \"Re",
+        "reference": "ika",
+        "generated": "Kamikaze is the tenth studio album by American rapper Eminem. It was released on August 31, 2018 by Aftermath Entertainment, Interscope Records, and Shady Records without prior announcement. The album features guest appearances from Joyner Lucas, Royce da 5'9\", Jessie Reyez and uncredited vocals by Justin Vernon."
+    },
+    {
+        "input": "simplify for beginners: Katei ( ) was a Japanese era name (,, \"neng\",, lit. \"year name\") after \"Bunryaku\" and before \"Ryakunin.\" This period spanned the years from September 1235 to November 1238. The reigning emperor was Shij\"-tenn\" ( ).",
+        "reference": "i",
+        "generated": "Katei was a Japanese era name (,, \"neng\", lit. \"year name\") after \"Bunryaku\" and before \"Ryakunin.\" This period spanned the years from September 1235 to November 1238. The reigning emperor was Shij\"-tenn\" ()."
+    },
+    {
+        "input": "simplify for beginners: Southwark (\"Br\" sk) Bridge is an arch bridge in London, for traffic linking the district of Southwark and the City across the River Thames. Except when others are closed for temporary repairs, it has the least traffic of the Thames bridges in London. A previous bridge, designed by John Rennie, opened on the site in 1819 and was originally known as Queen Street Bridge, as shown on the 1818 John Snow Map of London. The bridge consisted of three large cast-iron spans supported by granite piers. The bridge was notable for having",
+        "reference": "war",
+        "generated": "Southwark Bridge (\"Br\" sk) is an arch bridge in London. It is used for traffic linking the district of South Wark and the City across the River Thames. A previous bridge, designed by John Rennie, opened on the site in 1819 and was originally known as Queen Street Bridge. The bridge consisted of three large cast-iron spans supported by granite piers."
+    },
+    {
+        "input": "simplify for beginners: Asiago (] ; Cimbrian: \"Slege\", German: \"Schl\u00e4gen\" ] ) is the name of both a major Italian \"Protected Designation of Origin\" (PDO,) as well as a cheese, and a minor township (population roughly 6,500) in the surrounding plateau region (the \"Altopiano di Asiago\" or \"Altopiano dei Sette Comuni\", Asiago plateau) in the Province of Vicenza in the Veneto region of Northeastern Italy. It is",
+        "reference": "go",
+        "generated": "Asiago is the name of both a major Italian \"Protected Designation of Origin\" (PDO,) as well as an Italian cheese, and an minor township (population roughly 6,500) in the surrounding plateau region (the \"Altopiano di Asiego\" or \"The Alusio dei Sette Comuni\", Asiango plateau). It is part of the Province of Vicenza in Northeastern Italy."
+    },
+    {
+        "input": "simplify for beginners: Lehigh County is a county located in the Lehigh Valley region of the U.S. state of Pennsylvania. As of the 2010 census, the population was 349,497. Its county seat is Allentown, the state's third-largest city behind Philadelphia and Pittsburgh. The county, which was first settled around 1730, was formed in 1812 with the division of Northampton County into two counties. It is named after the Lehigh River, whose name is derived from the Delaware Indian term Lechauweki or Lechauwekink,",
+        "reference": "high",
+        "generated": "Lehigh County is a county in the U.S. state of Pennsylvania. As of the 2010 census, 349,497 people lived there. Its county seat is Allentown."
+    },
+    {
+        "input": "simplify for beginners: Bepanah Pyaarr is an Indian romantic mystery drama television series produced by Ekta Kapoor under Balaji Telefilms and marks season two of \"Kasam Tere Pyaar Ki.\" It premiered on 3 June 2019 on Colors TV. It stars Pearl V Puri, Ishita Dutta and Aparna Dixit. The series revolves around two lovers where one dies in an accident but destiny brings them back together when she is reincarnated to fulfill their promises. The show replaced \"Roop - Mar",
+        "reference": "less",
+        "generated": "Bepanah Pyaarr is an Indian romantic mystery drama television series produced by Ekta Kapoor under Balaji Telefilms. It marks season two of \"Kasam Tere Pyar Ki.\" It premiered on 3 June 2019 on Colors TV. The series revolves around two lovers where one dies in an accident but destiny brings them back together when she is reincarnated to fulfill their promises."
+    },
+    {
+        "input": "simplify for beginners: The Omen is a 1976 supernatural horror film directed by Richard Donner, and written by David Seltzer. The film stars Gregory Peck, Lee Remick, David Warner, Harvey Spencer Stephens, Billie Whitelaw, Patrick Troughton, Martin Benson, and Leo McKern. The first installment of \"The Omen\" franchise, \"The Omen\" concerns a young child replaced at birth by American Ambassador Robert Thorn (Peck) unbeknownst to his wife (Remick), after their own son was murdered at the hospital,",
+        "reference": "Om",
+        "generated": "The Omen is a 1976 supernatural horror movie. It was directed by Richard Donner and written by David Seltzer. The movie stars Gregory Peck, Lee Remick, David Warner, Harvey Spencer Stephens, Billie Whitelaw, Patrick Troughton, Martin Benson, and Leo McKern."
+    },
+    {
+        "input": "simplify for beginners: Peter Manfred Gruber (28 August 1941, Klagenfurt \u2013 7 March 2017, Vienna) was an Austrian mathematician working in geometric number theory as well as in convex and discrete geometry. Gruber obtained his PhD at the University of Vienna in 1966, under the supervision of Nikolaus Hofreiter. From 1971, he was Professor at the University of Linz, and from 1976, at the TU Wien. He was a member of the Austrian Academy of Sciences, a foreign member of the Russian Academy of Sciences, and a",
+        "reference": "Man",
+        "generated": "Peter Manfred Gruber (28 August 1941 \u2013 7 March 2017, Vienna) was an Austrian mathematician working in geometric number theory as well as in convex and discrete geometry. He obtained his PhD at the University of Vienna in 1966, under the supervision of Nikolaus Hofreiter."
+    },
+    {
+        "input": "simplify for beginners: \"Not Alone\" is a song by Armenian singer Aram Mp3. It was internally selected to represent Armenia at the Eurovision Song Contest 2014 in Denmark. The song was revealed on 14 March 2014. On 31 December 2013 Aram Mp3 was selected by Armenian First Channel to represent Armenia at the Eurovision Song Contest 2014. On 21 February 2014 it was announced that Aram's song is already chosen, but the song will be premiered together with a music video by March. Overall the broadcaster received 75 songs from domestic and foreign composers. The song recording works begun in February",
+        "reference": "Not",
+        "generated": "\"Not Alone\" is a song by Armenian singer Aram Mp3. It was internally selected to represent Armenia at the Eurovision Song Contest 2014 in Denmark. The song was revealed on 14 March 2014."
+    },
+    {
+        "input": "simplify for beginners: The Futureheads are an English post-punk band from Sunderland. consisting of Ross Millard (vocals and guitar), Barry Hyde (vocals and guitar), David \"Jaff\" Craig (vocals and bass guitar) and Dave Hyde (drums). Their name comes from the title of The Flaming Lips album \"Hit to Death in the Future Head\". The band's influences include new wave and post-punk bands such as Gang of Four, Devo, XTC, Wire and Fugazi. The band met at City of",
+        "reference": "Future",
+        "generated": "The Futureheads are an English post-punk band from Sunderland. They are composed of Ross Millard, Barry Hyde, David \"Jaff\" Craig (vocals and bass guitar) and Dave Hydes (drums). Their name comes from the title of The Flaming Lips album \"Hit to Death in the Future Head\"."
+    },
+    {
+        "input": "simplify for beginners: Wizard's First Rule, written by Terry Goodkind, is the first book in the epic fantasy series \"The Sword of Truth\". Published by Tor Books, it was released on August 15, 1994 in hardcover, and in paperback on July 15, 1997. The book was also re-released with new cover artwork by Keith Parkinson in paperback on June 23, 2001. The novel was adapted to television in the 2008 television series \"Legend of the Seeker\". Goodkind had no trouble selling his first book to a publisher. \"I'm sort of the exception that proves",
+        "reference": "'",
+        "generated": "Wizard's First Rule, written by Terry Goodkind, is the first book in the epic fantasy series \"The Sword of Truth\". It was published by Tor Books, it was released on August 15, 1994 in hardcover, and in paperback on July 15, 1997. The book was also re-released with new cover artwork by Keith Parkinson in newspaper on June 23, 2001."
+    },
+    {
+        "input": "simplify for beginners: \"Sare Jahan se Accha\" (Urdu:; ), formally known as (Urdu:; \"Anthem of the People of Hindustan\"), is an Urdu language patriotic song for children written by poet Muhammad Iqbal in the ghazal style of Urdu poetry. The poem was published in the weekly journal \"Ittehad\" on 16 August 1904. Publicly recited by Iqbal the following year at Government College, Lahore, British India (now in Pakistan) it quickly became an ant",
+        "reference": "are",
+        "generated": "\"Sare Jahan se Accha\" is an Urdu language patriotic song for children written by Muhammad Iqbal. It was published in the weekly journal \"Ittehad\" on 16 August 1904."
+    },
+    {
+        "input": "simplify for beginners: Spin welding is a friction welding technique used on thermoplastic materials, in which the parts to be welded are heated by friction. The heat may be generated by turning on a lathe, a drill press, or a milling machine, where one part is driven by the chuck, and the other is held stationary with the spinning part driven against it. This is continued until the heat of friction between the parts reaches a sufficient level for the parts to weld. The stationary part is then released to spin as well, while pressure is applied along the axis of rotation",
+        "reference": "welding",
+        "generated": "Spin welding is a technique used on thermoplastic materials, in which the parts to be welded are heated by friction."
+    },
+    {
+        "input": "simplify for beginners: Chemilly-sur-Serein is a commune in the Yonne department in Bourgogne-Franche-Comt\u00e9 in north-central France.",
+        "reference": "mill",
+        "generated": "Chemilly-sur-Serein is a commune of the Yonne department in the center of France."
+    },
+    {
+        "input": "simplify for beginners: John Brown's Body (1928) is an epic American poem written by Stephen Vincent Ben\u00e9t. Its title references the radical abolitionist John Brown, who raided Harpers Ferry in Virginia in the fall of 1859. He was captured and hanged later that year. Ben\u00e9t's poem covers the history of the American Civil War. It won the Pulitzer Prize in 1929. It was written while Ben\u00e9t lived in Paris after receiving a Guggenheim Fellowship award. The poem was performed on Broadway in 1953 in a staged dramatic reading",
+        "reference": "Brown",
+        "generated": "John Brown's Body (1928) is an epic American poem written by Stephen Vincent Ben\u00e9t. Its title refers to the radical abolitionist John brown, who raided Harpers Ferry in Virginia in the fall of 1859. He was captured and killed later that year. The poem won the Pulitzer Prize in 1929."
+    },
+    {
+        "input": "simplify for beginners: Travis County is a county in south central Texas. As of the 2010 census, the population was 1,024,266; the estimated population in 2018 was 1,248,743. It is the fifth-most populous county in Texas. Its county seat is Austin, the capital of Texas. The county was established in 1840 and is named in honor of William Barret Travis, the commander of the Republic of Texas forces at the Battle of the Alamo. Travis County is part of the Austin-Round Rock Metropolitan Statistical Area. It is along the Balcones F",
+        "reference": "County",
+        "generated": "Travis County is a county in south central Texas. As of the 2010 census, 1,024,266 people lived there; the estimated population in 2018 was 1,248,743. The county seat is Austin, the capital of Texas, and the county was established in 1840."
+    },
+    {
+        "input": "simplify for beginners: In cell biology, the cytoplasm is all of the material within a cell, enclosed by the cell membrane, except for the cell nucleus. The material inside the nucleus and contained within the nuclear membrane is termed the nucleoplasm. The main components of the cytoplasm are cytosol \u2013 a gel-like substance, the organelles \u2013 the cell's internal sub-structures, and various cytoplasmic inclusions. The cytoplasm is about 80% water and usually colorless. The submicroscopic ground cell substance, or",
+        "reference": "",
+        "generated": "In cell biology, the cytoplasm is all of the material within a cell, enclosed by the cell membrane, except for the cells nucleus. The material inside the nuleus and contained within the nuclear membrane is termed \"nucleoplasm\"."
+    },
+    {
+        "input": "simplify for beginners: Traffic Cops is a British documentary series broadcast on Channel 5 (and formerly on BBC One) which follows Road Policing Units from various UK police forces. It has consistently been one of the most watched factual series on UK television. The show follows the day-to-day role of a traffic officer and the incidents they come across. The majority of filming takes place at the scene of incidents, with occasional cuts to police stations and interview rooms. Locations include Yorkshire, Hampshire, Humberside, South Wales, Sussex, Bedfordshire, and Hertfordshire. The last",
+        "reference": "Cop",
+        "generated": "Traffic Cops is a British documentary series broadcast on Channel 5 (and formerly on BBC One) which follows Road Policing Units from various UK police forces. It has consistently been one of the most watched factual series on UK television."
+    },
+    {
+        "input": "simplify for beginners: The cephalothorax, also called prosoma in some groups, is a tagma of various arthropods, comprising the head and the thorax fused together, as distinct from the abdomen behind. (The terms \"prosoma\" and \"opisthosoma\" are equivalent to \"cephalothorax\" and \"abdomen\" in some groups.) The word \"cephalothorax\" is derived from the Greek words for head (, \" \") and thorax (, \" \"",
+        "reference": "ce",
+        "generated": "The cephalothorax, also called prosoma in some groups, is a tagma of various arthropods, comprising the head and the thoraix fused together, as distinct from the abdomen behind."
+    },
+    {
+        "input": "simplify for beginners: Okazaki (, Okazaki-shi ) is a city located in Aichi Prefecture, Japan. In 2010, the city had an estimated population of 372,357 and a population density of 991.88 persons per km. The total area was 387.20 km2. Okazaki is in the coastal plains of southeastern Aichi Prefecture. The ground rises to undulating hills in the former Nukata area to the northeast. About 60 percent of the city area is forested and remains sparse",
+        "reference": "aza",
+        "generated": "Okazaki is a city in Aichi Prefecture, Japan. In 2010, 372,357 people lived there. The total area was 387.20 km2."
+    },
+    {
+        "input": "simplify for beginners: A vaccine is a biological preparation that provides active acquired immunity to a particular disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. The agent stimulates the body's immune system to recognize the agent as a threat, destroy it, and to further recognize and destroy any of the microorganisms associated with that agent that it may encounter in the future. Vaccines can be prophylactic (to prevent",
+        "reference": "vaccine",
+        "generated": "A vaccine is a biological preparation that gives active acquired immunity to the disease. It is usually made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins. The agent stimulates the body's immune system to recognize the agent, destroy it, and to further recognize and destroy any microorganisms associated with that agent that it may encounter in the future."
+    },
+    {
+        "input": "simplify for beginners: 385695 Clete, provisional designation 2005 TO, is a Neptune trojan, co-orbital with the ice giant Neptune, approximately 97 km in diameter. It was named after Clete, one of the Amazons from Greek mythology. The minor planet was discovered on 8 October 2005, by American astronomers Scott Sheppard and Chad Trujillo at Las Campanas Observatory in Chile. 23 known Neptune trojans have already been discovered. This minor planet was named from Greek mythology after Clet",
+        "reference": "85",
+        "generated": "385695 Clete, provisional designation 2005 TO, is a Neptune trojan, co-orbital with the ice giant, about 97 km in diameter. The minor planet was discovered on 8 October 2005, by American astronomers Scott Sheppard and Chad Trujillo at Las Campanas Observatory in Chile."
+    },
+    {
+        "input": "simplify for beginners: Swedish ( ] ) is a North Germanic language spoken natively by 10 million people, predominantly in Sweden (as the sole official language), and in parts of Finland, where it has equal legal standing with Finnish. It is largely mutually intelligible with Norwegian and to some extent with Danish, although the degree of mutual intelligibility is largely dependent on the dialect and accent of the speaker. Written Norwegian and Danish are usually more easily understood by Swedish speakers than the spoken languages, due to the differences in tone, accent and intonation. Swedish is a descend",
+        "reference": "is",
+        "generated": "Swedish is a North Germanic language spoken natively by 10 million people, mostly in Sweden (as the sole official language), and in parts of Finland, where it has equal legal standing with Finnish."
+    },
+    {
+        "input": "simplify for beginners: The Super Sentai Series (, Sp Sentai Shirzu ) is a Japanese superhero team metaseries of TV series produced by Toei Company, and Bandai, and aired by TV Asahi (\"Sentai\" is the Japanese word for \"task force\" or \"fighting squadron\"). The shows are of the \"tokusatsu\" genre, featuring live action characters and colorful special effects, and are aimed at children. \"Super Sentai\" airs alongside the",
+        "reference": "Sen",
+        "generated": "The Super Sentai Series is a Japanese superhero team metaseries of TV series produced by Toei Company, and Bandais. It was aired by TV Asahi. The shows are of the \"tokusatsu\" genre, featuring live action characters and colorful special effects."
+    },
+    {
+        "input": "simplify for beginners: Akihabara (Japanese:  ) is a common name for the area around Akihabara Station in the Chiyoda ward of Tokyo, Japan. Administratively, the area called Akihabara mainly belongs to the Sotokanda ( ) and Kanda-Sakumach districts in Chiyoda. There exists an administrative district called Akihabara in the Tait ward further north of Akihabara Station, but it is not the place people generally refer to as Akihab",
+        "reference": "i",
+        "generated": "Akihabara (Japanese: ) is an administrative district in the Tait ward in Chiyoda, Japan."
+    },
+    {
+        "input": "simplify for beginners: Peter Matthiessen (May 22, 1927 \u2013 April 5, 2014) was an American novelist, naturalist, wilderness writer, zen teacher and CIA officer. A co-founder of the literary magazine \"The Paris Review\", he was the only writer to have won the National Book Award in both fiction and nonfiction. He was also a prominent environmental activist. Matthiessen's nonfiction featured nature and travel, notably \"The Snow Leopard\" (1978) and American Indian issues and history, such as a detailed and controversial study of the Leonard Peltier case, \"In",
+        "reference": "Mat",
+        "generated": "Peter Matthiessen (May 22, 1927 \u2013 April 5, 2014) was an American author, naturalist, wilderness writer, zen teacher and CIA officer. He was a co-founder of the literary magazine \"The Paris Review\", he was the only writer to have won the National Book Award in both fiction and nonfiction."
+    },
+    {
+        "input": "simplify for beginners: Delhi Gate (, \"Delhi Darwaza\") is one of six remaining historic gates of the Walled City of Lahore, Pakistan. Delhi Gate and the adjacent Shahi Hammam were restored in 2015 by the Aga Khan Cultural Service Pakistan. The Delhi Gate was originally built during the Mughal period, and is now known as the Chitta Gate, about 100 metres west of the new Delhi Gate. The gate was named after Delhi since the gate opened east, in the general direction of that city. During the Mughal era, the",
+        "reference": "Delhi",
+        "generated": "Delhi Gate (, \"Delhi Darwaza\") is one of six remaining historic gates of the Walled City of Lahore, Pakistan."
+    },
+    {
+        "input": "simplify for beginners: Crystal Lake is a city in McHenry County in the U.S. state of Illinois. Named after a lake 1.6 mi southwest of the city's downtown, Crystal Lake is 45 miles northwest of Chicago. The population was estimated at 40,036 in July 2018, a 1.8% decrease from 2010. Crystal Lake is the largest city in McHenry County, part of the Chicago metropolitan area. The City of Crystal Lake traces its origin to two separate communities which were established in the 1800s. Those communities were generally known as Nunda and Crystal Lake. In",
+        "reference": "Lake",
+        "generated": "Crystal Lake is a city of Illinois in the United States."
+    },
+    {
+        "input": "simplify for beginners: The name of the animal was imported into English in the 18th century from isiXhosa \"iqhude\", via Afrikaans \"koedoe\" part zebra part deer. Kudu, or koodoo, is the Khoikhoi name for this antelope. \"Tragos\" (Greek) denotes a he-goat and \"elaphos\" (Greek) a deer. \"Strepho\" (Greek) means \"I twist\",",
+        "reference": "du",
+        "generated": "The name of the animal was imported into English in the 18th century from isiXhosa \"iqhude\", via Afrikaans part zebra part deer. Kudu is the Khoikhoi name for this antelope."
+    },
+    {
+        "input": "simplify for beginners: Francisco Javier Fern\u00e1ndez Torrej\u00f3n (born August 19, 1975) is a former Chilean football player, who played for clubs of Chile and Japan, the Chile national U-20 football team and the Chile national football team.",
+        "reference": "Ja",
+        "generated": "Francisco Javier Fern\u00e1ndez Torrej\u00f3n (born August 19, 1975) is a former Chilean football player. He has played for Chile national team."
+    },
+    {
+        "input": "simplify for beginners: Robin Stenuit (born 16 June 1990 in Louvain-la-Neuve) is a Belgian cyclist riding for Wanty\u2013Groupe Gobert. In September 2015 Stenuit announced that he would be riding for Wanty\u2013Groupe Gobert in 2016 after scoring a win for the team at Schaal Sels whilst riding for them as a stagiaire.",
+        "reference": "Ste",
+        "generated": "Robin Stenuit (born 16 June 1990) is a Belgian cyclist. He is riding for Wanty\u2013Groupe Gobert."
+    },
+    {
+        "input": "simplify for beginners: Whey is the liquid remaining after milk has been curdled and strained. It is a byproduct of the manufacture of cheese or casein and has several commercial uses. Sweet whey is a byproduct produced during the manufacture of rennet types of hard cheese, like Cheddar or Swiss cheese. Acid whey (also known as sour whey) is a byproduct produced during the making of acid types of dairy products, such as cottage cheese or strained yogurt. Whey proteins consist of -lactalbumin, -",
+        "reference": "hey",
+        "generated": "Whey is the liquid remaining after milk has been curdled and strained. It is a byproduct of the manufacture of cheese or casein and has several commercial uses."
+    },
+    {
+        "input": "simplify for beginners: A memory card or memory cartridge is an electronic data storage device used for storing digital information, typically using flash memory. These are commonly used in portable electronic devices, such as digital cameras, mobile phones, laptop, computers, tablets, PDAs, portable media players, video game consoles, synthesizers, electronic keyboards and digital pianos. The basis for memory card technology is flash memory. It was invented by Fujio Masuoka at Toshiba in 1980, and commercialized by Toshiba in 1987. PC Cards (PCMCIA) were the first commercial memory card formats (type",
+        "reference": "memory",
+        "generated": "A memory card or memory cartridge is an electronic data storage device used for storing digital information, typically using flash memory. These are commonly used in portable electronic devices, such as digital cameras, mobile phones, laptop, computers, tablets, PDAs, portable media players, video game consoles. It was invented by Fujio Masuoka at Toshiba in 1980."
+    },
+    {
+        "input": "simplify for beginners: The University of Lausanne (UNIL; ) in Lausanne, Switzerland was founded in 1537 as a school of theology, before being made a university in 1890. As of fall 2017, about 15,000 students and 3,300 employees study and work at the university. Approximately 1,500 international students attend the university (120 nationalities), which has a wide curriculum including exchange programs with world-renowned universities. Since 2005, the University follows the requirements of the Bologna process. The 2011 Times Higher Education World University Rankings ranked the University of Lausanne 116",
+        "reference": "University",
+        "generated": "The University of Lausanne (UNIL; ) was a school of theology. It was founded in 1537. In 1890, about 15,000 students and 3,300 employees study and work at the university."
+    },
+    {
+        "input": "simplify for beginners: Heuriger (] ; Austrian dialect pronunciation: Heiriga) is the name given to taverns in Eastern Austria at which local winemakers serve their new wine under a special licence in alternate months during the growing season. The \"Heurige\" are renowned for their atmosphere of \"Gem\u00fctlichkeit\" shared among a throng enjoying young wine, simple food, and - in some places - Schrammelmusik. They correspond to the Strau\u00dfwirtschaften in the German Rheinland, the \"Frasche\" in",
+        "reference": "uri",
+        "generated": "Heuriger is the name given to taverns in Eastern Austria at which local winemakers serve their new wine under a special licence in alternate months during the growing season."
+    },
+    {
+        "input": "simplify for beginners: The British Rail Class 81 is an AC electric locomotive that formerly operated on the West Coast Main Line of the London Midland Region of British Rail. Originally designated AL1, it was the first type of AC electric locomotive to be delivered to British Railways. As part of the modernization of the West Coast Main Line which included electrification, 100 locomotives of five types were acquired, each type from a different manufacturer. The first locomotives to be delivered were of type AL1 designed by British Thomson-Houston (BTH), an order being placed for 25 examples. Of these, 23",
+        "reference": "British",
+        "generated": "The British Rail Class 81 is an AC electric locomotive that formerly operated on the West Coast Main Line of the London Midland Region of British Railway. It was originally designated AL1, it was the first type of AC Electric locomotive to be delivered to British railways. As part of modernization, 100 locomotives of five types were acquired, each type from a different manufacturer. The first locomotive was of type AL1 designed by British Thomson-Houston (BTH), an order being placed for 25 examples. Of these, 23 examples were made."
+    },
+    {
+        "input": "simplify for beginners: Robert Cutler (June 12, 1895 \u2013 May 8, 1974) was an American government official who was the first person appointed as the National Security Advisor to the president of the U.S. He served President Dwight Eisenhower in that role between 1953 and 1955, and again from 1957 to 1958. He was born on June 12, 1895, in Brookline, Massachusetts. He was the youngest of five sons born to George C. and Mary F. Wilson Cutler. His other brothers were Elliott Carr Cutler, a professor at the Harvard Medical School and a surgeon, Harvard",
+        "reference": "Cut",
+        "generated": "Robert Cutler (June 12, 1895 \u2013 May 8, 1974) was an American government official who was the first person appointed as the National Security Advisor to the president of the U.S. He served President Dwight Eisenhower in that role between 1953 and 1955, and again from 1957 to 1958."
+    },
+    {
+        "input": "simplify for beginners: The Blues Band is a British blues band formed in 1979 by Paul Jones, former lead vocalist and harmonica player with Manfred Mann, and guitarist Tom McGuinness also of Manfred Mann and The Roosters. The band\u2019s first line-up also included bassist Gary Fletcher, slide-guitarist Dave Kelly who had previously played with The John Dummer Band, Howling Wolf and John Lee Hooker and drummer Hughie Flint, of John Mayall's Blues Breakers and McGuinness Flint, the band",
+        "reference": "Blue",
+        "generated": "The Blues Band is a British blues band. It was formed in 1979 by Paul Jones, former lead vocalist and harmonica player with Manfred Mann, and guitarist Tom McGuinness also of The Roosters. The band\u2019s first line-up also included bassist Gary Fletcher, slide-guitarist Dave Kelly who had previously played with The John Dummer Band, Howling Wolf and John Lee Hooker and drummer Hughie Flint."
+    },
+    {
+        "input": "simplify for beginners: The Russian Women's Football Championship, also known as the Top Division, is the highest professional women's football league in Russia. The Top Division was founded in 1992. Before the collapse of the Soviet Union, there had been a women's league, but it only played two seasons, 1990 and 1991. For the 2010 season the seven teams play each other four times, two times away and two games at home. In previous years the team played each other only twice. As Russia is in the top 8 leagues of Europe by UEFA Coefficient the top two teams qualify for the",
+        "reference": "Russian",
+        "generated": "The Russian Women's Football Championship, also known as the Top Division, is the highest professional female football league in Russia. The top division was founded in 1992. Before the collapse of the Soviet Union, there had been a female league, but it only played two seasons, 1990 and 1991. For the 2010 season the seven teams play each other four times, two times away and two games at home."
+    },
+    {
+        "input": "simplify for beginners: Pope Saint Linus ( ; died circa AD 76) was the second Bishop of Rome and Supreme Pontiff (Pope) of the Catholic Church. His pontificate endured from circa AD 67 to his death. Among those to have been Pope, Saint Peter, Linus, and Clement are specifically named in the New Testament. Linus is named in the valediction of the \"Second Epistle to Timothy\" as being with Saint Paul the Apostle in Rome near the end of Paul's life. The earliest witness to the episcopate of Linus",
+        "reference": "Lin",
+        "generated": "Pope Saint Linus (; died circa 76) was the second Bishop of Rome and Supreme Pontiff (Pope) of the Catholic Church. His pontificate endured from circa AD 67 to his death."
+    },
+    {
+        "input": "simplify for beginners: James Henry Landis (March 9, 1934 \u2013 October 7, 2017) was an American professional baseball player. Landis played in Major League Baseball (MLB) as a center fielder on six teams from 1957 through 1967. While playing eight seasons for the Chicago White Sox, he was an American League (AL) All-Star in 1962 and an AL Gold Glove Award winner five consecutive seasons. Landis is considered to be one of the best defensive center fielders in major-league history. Landis attended Richmond High School in Richmond, California where he starred in baseball as a",
+        "reference": "Henry",
+        "generated": "James Henry Landis (March 9, 1934 \u2013 October 7, 2017) was an American professional baseball player. He played in Major League Baseball (MLB) as a center fielder on six teams from 1957 through 1967. While playing eight seasons for the Chicago White Sox, he was the American League (AL) All-Star in 1962 and an AL Gold Glove Award winner five consecutive seasons."
+    },
+    {
+        "input": "simplify for beginners: IF Bj\u00f6rkl\u00f6ven (often simply referred to as Bj\u00f6rkl\u00f6ven or L\u00f6ven) is a Swedish professional ice hockey club in Ume, V\u00e4sterbotten, in northern Sweden. The club is currently playing in the second-tier league HockeyAllsvenskan as of the 2014\u201315 season, but has played 15 seasons in the top Swedish league Elitserien (1976\u201377, 1978\u201379 to 1988\u201389, 1993\u201394, 1998\u201399 and 2000\u201301). IF Bj\u00f6rkl\u00f6ven",
+        "reference": "IF",
+        "generated": "IF Bj\u00f6rkl\u00f6ven is a Swedish professional ice hockey club in Ume, V\u00e4sterbotten, in northern Sweden. The club is currently playing in the second-tier league HockeyAllsvenskan as of the 2014\u201315 season."
+    },
+    {
+        "input": "simplify for beginners: Skate (stylized as skate.) is a skateboarding video game for Xbox 360, PlayStation 3 and mobile phones. It was developed by EA Black Box and released in 2007. Two sequels, \"Skate 2\" and \"Skate 3\", have been released for PlayStation 3 and Xbox 360, as well as \"Skate It\", a spin-off for Wii, Nintendo DS and iOS platforms. The game's \"flick it\" control system began development long before any graphics had been implemented: the initial prototype simply read analogue stick",
+        "reference": "ate",
+        "generated": "Skate (stylized as skate.) is a skateboarding video game for Xbox 360, PlayStation 3 and mobile phones. It was developed by EA Black Box and released in 2007."
+    },
+    {
+        "input": "simplify for beginners: Takanonami Sadahiro (born Sadahiro Namioka October 27, 1971 \u2013 June 20, 2015) was a Japanese sumo wrestler and coach from Aomori. He held sumo's second highest rank of \"zeki\" from 1994 until 2000. He won two tournament championships, and was a runner-up in eight others. He was a sumo coach from his retirement in 2004 until his death in 2015 at the age of 43. Born in Misawa, Aomori, the young Namioka did sum",
+        "reference": "an",
+        "generated": "Takanonami Sadahiro (October 27, 1971 \u2013 June 20, 2015) was a Japanese sumo wrestler and coach from Aomori. He held Sumo's second highest rank of \"zeki\" from 1994 until 2000."
+    },
+    {
+        "input": "simplify for beginners: Alain Leroy Locke (September 13, 1885 \u2013 June 9, 1954) was an American writer, philosopher, educator, and patron of the arts. Distinguished as the first African-American Rhodes Scholar in 1907, Locke was the philosophical architect \u2014the acknowledged \"Dean\"\u2014 of the Harlem Renaissance. As a result, popular listings of influential African Americans have repeatedly included him. On March 19, 1968, the Rev. Dr. Martin Luther King, Jr. proclaimed: \"We're going to let our children know that the only philosophers that lived were",
+        "reference": "a",
+        "generated": "Alain Leroy Locke (September 13, 1885 \u2013 June 9, 1954) was an American writer, philosopher, educator, and patron of the arts. He was Distinguished as the first African-American Rhodes Scholar in 1907, he was the philosophical architect \u2014 the acknowledged \"Dean\"\u2014of the Harlem Renaissance. As a result, popular listings of influential African Americans have repeatedly included him. On March 19, 1968, the Rev. Dr. Martin Luther King, Jr. said: \"We're going to let our children know that the only philosophers that lived were"
+    },
+    {
+        "input": "simplify for beginners: Howard Earl Gardner (born July 11, 1943) is an American developmental psychologist and the John H. and Elisabeth A. Hobbs Research Professor of Cognition and Education at the Harvard Graduate School of Education at Harvard University. He is currently the senior director of Harvard Project Zero, and since 1995, he has been the co-director of The Good Project. Gardner has written hundreds of research articles and thirty books that have been translated into more than thirty languages. He is best known for his theory of multiple intelligences, as outlined in his 1983 book \"Frames of Mind:",
+        "reference": "Earl",
+        "generated": "Howard Earl Gardner (born July 11, 1943) is an American developmental psychologist and the John H. and Elisabeth A. Hobbs Research Professor of Cognition and Education at Harvard Graduate School of Education. He is currently the senior director of Harvard Project Zero, and since 1995, he has been the co-director of The Good Project."
+    },
+    {
+        "input": "simplify for beginners: The Tashkent riffle bleak (\"Alburnoides oblongus\") is a fish species of Cyprinidae family. Widespread in the Central Asia in Syr-Darya basin. Benthopelagic temperate freshwater fish, up to 14.2 cm in length.",
+        "reference": "T",
+        "generated": "The Tashkent riffle bleak (\"Alburnoides oblongus\") is a fish species of Cyprinidae family. Widespread in the Central Asia in Syr-Darya basin. Benthopelagic temperate freshwater fish, up to 14.2 cm in length."
+    }
+]
