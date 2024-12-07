@@ -43,6 +43,5 @@ pip install -r requirements.txt
 - Expand robustness studies to cover domain-specific jargon and complex inputs.
 
 ## Usage
-1. Clone the repository:
-   bash
-   git clone <repository-url>
+Clone the repository:
+git clone <repository-url>
