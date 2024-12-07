@@ -10,6 +10,6 @@ This project focuses on developing a model to summarize news articles using Natu
 
 ## Steps to run the code for summarization:
 1. Install the packages using pip install -r requirements.txt
-2. Run the preprocess data using python preprocess.py
-3. Run the model building using python model.py
-4. Run the summarize model using python main.py
+2. Run the preprocess data using python src/preprocess.py
+3. Run the model building using python src/model.py
+4. Run the summarize model using python src/main.py
