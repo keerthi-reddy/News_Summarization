@@ -46,7 +46,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-### Steps to run the code for summarization:
+### Steps to run the code for simplification:
 1. Preprocess the dataset using:
    ```bash
    python preprocess_wikiauto.py
