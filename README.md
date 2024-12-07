@@ -31,6 +31,11 @@ This project simplifies news articles to make them more accessible and readable 
 3. **Evaluation**: Tested the model for BLEU scores and readability levels.
 4. **Robustness Studies**: Evaluated model resilience under challenging scenarios.
 
+### Dependencies
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
 ## Future Scope
 - Integrate summarization and simplification into a unified pipeline.
 - Extend multilingual support for broader usability.
