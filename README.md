@@ -7,6 +7,15 @@ Diwita Banerjee - G01455461
 ## NEWS SUMMARIZATION
 This project focuses on developing a model to summarize news articles using Natural Language Processing (NLP) techniques. The goal is to generate concise, informative summaries that capture the most important aspects of the original article.
 
+## DATASET - CNN/DailyMail 
+To download the CNN/Daily Mail dataset for newspaper text summarization, you can use the following script:
+
+```bash
+#!/bin/bash
+curl -L -o ~/Downloads/newspaper-text-summarization-cnn-dailymail.zip\
+  https://www.kaggle.com/api/v1/datasets/download/gowrishankarp/newspaper-text-summarization-cnn-dailymail
+```
+
 
 ### Steps to run the code for summarization:
 1. Install the packages using pip install -r News_Summarization/requirements.txt
