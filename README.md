@@ -31,10 +31,6 @@ This project simplifies news articles to make them more accessible and readable 
 3. **Evaluation**: Tested the model for BLEU scores and readability levels.
 4. **Robustness Studies**: Evaluated model resilience under challenging scenarios.
 
-### Results
-- Improved BLEU scores and readability with fine-tuned models.
-- Simplified news articles while maintaining accuracy and context.
-
 ## Future Scope
 - Integrate summarization and simplification into a unified pipeline.
 - Extend multilingual support for broader usability.
